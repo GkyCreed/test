@@ -291,7 +291,22 @@ CCTV-15音乐,http://221.2.36.34:8888/newlive/live/hls/17/live.m3u8
 
 
 备用3,#genre#
-
+CCTV+ 1 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
+CCTV+ 2 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
+CCTV-1综合 (1080p),https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
+CCTV-2财经 (1080p),https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
+CCTV-3 (1080p),https://node1.olelive.com:6443/live/CCTV3HD/hls.m3u8
+CCTV-4 (1080p),https://node1.olelive.com:6443/live/CCTV4HD/hls.m3u8
+CCTV-4 America (1080p),https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+CCTV-4 Asia (480p),http://210.210.155.37/qwr9ew/s/s19/index.m3u8
+CCTV-5+体育赛事 (1080p),https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
+CCTV-5体育 (1080p),https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
+CCTV-6电影 (1080p),https://node1.olelive.com:6443/live/CCTV6HD/hls.m3u8
+CCTV-7国防军事 (1080p),https://node1.olelive.com:6443/live/CCTV7HD/hls.m3u8
+CCTV-8电视剧 (1080p),https://node1.olelive.com:6443/live/CCTV8HD/hls.m3u8
+CCTV-9纪录 (1080p),https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
+CCTV-10科教 (1080p),https://node1.olelive.com:6443/live/CCTV10HD/hls.m3u8
+CCTV-13新闻 (1080p),https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
 
 
 备用4,#genre#

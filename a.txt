@@ -1,4 +1,4 @@
-CCTV-1 综合,https://migu.188766.xyz/?migutoken=3d4bf8a822d1eb80685e09f05970f5b6&id=CCTV1&type=yy
+CCTV-1 综合1,https://migu.188766.xyz/?migutoken=3d4bf8a822d1eb80685e09f05970f5b6&id=CCTV1&type=yy
 CCTV-2 财经,https://migu.188766.xyz/?migutoken=37c5f74a009a80ecc09a002fff86821f&id=CCTV2&type=yy
 CCTV-3 综艺,https://migu.188766.xyz/?migutoken=634afe392d234ace0533e4eada6e46ca&id=CCTV3&type=yy
 CCTV-4 中文国际,https://migu.188766.xyz/?migutoken=e23116fd511ce86859d159f0bbd915b4&id=CCTV4&type=yy
